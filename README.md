@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/baharudin-yusup/baharudin-yusup/blob/main/assets/user-picture.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/baharudin-yusup/baharudin-yusup/blob/main/assets/user-picture.png?raw=true">
- <img alt="Profile picture" src="https://github.com/baharudin-yusup/baharudin-yusup/blob/main/assets/user-picture.png?raw=true">
-</picture>
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/images/user-picture.png" width="200">
+  <source media="(prefers-color-scheme: light)" srcset="/assets/images/user-picture.png" width="200">
+  <img alt="Profile picture" src="/assets/images/user-picture.png" width="200">
+ </picture>
+</p>
+
