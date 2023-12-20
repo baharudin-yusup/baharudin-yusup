@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/43311117?v=4">
+ <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/43311117?v=4">
+ <img alt="Profile picture" src="https://avatars.githubusercontent.com/u/43311117?v=4">
+</picture>
