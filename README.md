@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/images/user-picture.png" width="200">
   <source media="(prefers-color-scheme: light)" srcset="/assets/images/user-picture.png" width="200">
   <img alt="Profile picture" src="/assets/images/user-picture.png" width="200">
  </picture>
-</p>
+</p> -->
 <h1 align="center">Baharudin Yusup</h1>
 
 I'm an experienced software developer specializing in mobile app development. With 6 years in the field, I've mastered crafting [Android](https://developer.android.com/about) native apps using [Kotlin](https://kotlinlang.org/) and [Java](https://www.java.com/en/), and creating multi-platform apps with [Flutter](https://flutter.dev/). Additionally, I'm proficient in backend technologies like [Node.js](https://nodejs.org/en), [Express.js](https://expressjs.com/), and [Firebase](https://firebase.google.com/).
