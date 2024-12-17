@@ -22,6 +22,7 @@ Throughout my career, I've led app development teams, conducted code reviews, an
 ### Flutter Projects
 - [**Salingsapa**](https://github.com/baharudin-yusup/salingsapa) <br>
   A video call apps to enable deaf people to communicate with normal people using [Sign Language Recognition (SLR)](https://en.wikipedia.org/wiki/Sign_language_recognition) and [Speech-to-Text (STT)](https://aws.amazon.com/what-is/speech-to-text/). Available on [App Store](https://apps.apple.com/app/salingsapa/id6447261524) and [Play Store](https://play.google.com/store/apps/details?id=dev.baharudin.salingsapa&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).
-
+- [**Intuitive Alarm**](https://github.com/baharudin-yusup/intuitive-alarm) <br>
+  An alarm app made with Flutter for Stockbit and Bibit test assignment.
 
 With a proven track record of leading teams and delivering impactful solutions, I'm confident in my technical expertise and innovative mindset. I'm eager to contribute to dynamic work environments and foster success and innovation in mobile app development.
