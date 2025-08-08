@@ -7,7 +7,7 @@
 </p> -->
 <h1 align="center">Baharudin Yusup</h1>
 
-I'm an experienced software developer specializing in mobile app development. With 6 years in the field, I've mastered crafting [Android](https://developer.android.com/about) native apps using [Kotlin](https://kotlinlang.org/) and [Java](https://www.java.com/en/), and creating multi-platform apps with [Flutter](https://flutter.dev/). Additionally, I'm proficient in backend technologies like [Node.js](https://nodejs.org/en), [Express.js](https://expressjs.com/), and [Firebase](https://firebase.google.com/).
+I'm a Technical Lead with 7+ years of experience building mobile apps used by millions including for Avis & Budget (15M+ users), a Southeast Asian bank (UOB), a regional airline (Scoot), and Indonesia’s largest state-owned bank (BRI). Proven ability to lead cross-functional teams, develop large-scale applications, and drive measurable impact on performance, stability, and product velocity. Passionate about crafting clean, scalable architectures that solve real-world problems at scale.
 
 ## My Career
 
