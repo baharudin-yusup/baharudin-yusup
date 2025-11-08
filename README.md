@@ -19,6 +19,7 @@ I'm a **Technical Lead** with **7+ years of experience** architecting and delive
 * **Mobile App Development:** Android Native (Kotlin, Java), iOS Native (SwiftUI), Flutter, React Native
 * **Web Development:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3
 * **Backend & APIs:** .NET, Go (Golang), Node.js, REST APIs, gRPC, GraphQL, Firebase
+* **AI & Machine Learning:** Deep Learning, Computer Vision, NLP (Speech Recognition), Python, TensorFlow Lite 
 * **Databases & Messaging:** PostgreSQL, MongoDB, Elasticsearch, Redis, Apache Kafka, RabbitMQ
 * **DevOps & Cloud:** AWS, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Codemagic
 * **Architecture & Practices:** Clean Architecture, Microservices, Event-Driven Architecture, Domain-Driven Design
